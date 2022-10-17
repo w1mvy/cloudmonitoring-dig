@@ -1,6 +1,6 @@
 # cloudmonitoring-dig
 
-fuzzy-finder for Google Cloud Monitoring
+fuzzy-finder for Google Cloud Monitoring Dashboard
 
 **only mac support** (because use `open` command internally)
 
